@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>MliybsTieba</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mliybs</Authors>
+    <Company>Mlinetles</Company>
+    <Description>Mliybs的百度贴吧库</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="." />
+    <None Include="LICENSE" Pack="true" PackagePath="." />
+    <None Include="icon.png" Pack="true" PackagePath="." />
+  </ItemGroup>
+
+</Project>

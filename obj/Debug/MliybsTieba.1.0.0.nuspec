@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MliybsTieba</id>
+    <version>1.0.0</version>
+    <authors>Mliybs</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Mliybs的百度贴吧库</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.dll" target="lib/net7.0/MliybsTieba.dll" />
+    <file src="/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.xml" target="lib/net7.0/MliybsTieba.xml" />
+    <file src="/media/mliybs/儿童邪典/GitHub/MliybsTieba/README.md" target="./README.md" />
+    <file src="/media/mliybs/儿童邪典/GitHub/MliybsTieba/LICENSE" target="./LICENSE" />
+    <file src="/media/mliybs/儿童邪典/GitHub/MliybsTieba/icon.png" target="./icon.png" />
+  </files>
+</package>

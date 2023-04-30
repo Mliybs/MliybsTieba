@@ -1,0 +1,14 @@
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.deps.json
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.dll
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.pdb
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/bin/Debug/net7.0/MliybsTieba.xml
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.csproj.AssemblyReference.cache
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.GeneratedMSBuildEditorConfig.editorconfig
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.AssemblyInfoInputs.cache
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.AssemblyInfo.cs
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.csproj.CoreCompileInputs.cache
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.dll
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/refint/MliybsTieba.dll
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.xml
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/MliybsTieba.pdb
+/media/mliybs/儿童邪典/GitHub/MliybsTieba/obj/Debug/net7.0/ref/MliybsTieba.dll

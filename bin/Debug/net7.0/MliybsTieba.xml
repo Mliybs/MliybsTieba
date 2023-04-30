@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MliybsTieba</name>
+    </assembly>
+    <members>
+        <member name="T:Mliybs.MliybsTieba.Tieba">
+            <summary>
+            百度贴吧类
+            </summary>
+        </member>
+        <member name="M:Mliybs.MliybsTieba.Tieba.TiebaGet(System.Net.Http.HttpClient,System.String,System.UInt32)">
+            <summary>
+            搜索某一个吧内某一页的所有帖子
+            </summary>
+            <param name="client"></param>
+            <param name="keyword"></param>
+            <param name="page"></param>
+            <returns>返回该页的所有帖子链接组成的字符串数组</returns>
+        </member>
+        <member name="M:Mliybs.MliybsTieba.Tieba.TiebaImage(System.Net.Http.HttpClient,System.String)">
+            <summary>
+            获取贴吧某一帖子里所发送的所有图片链接
+            </summary>
+            <param name="client"></param>
+            <param name="url"></param>
+            <returns>所有用户发送的图片的链接组成的字符串数组</returns>
+        </member>
+    </members>
+</doc>
